@@ -93,4 +93,4 @@ def makeExcuse(data):
   return excuse
 
 # print a random excuse
-print = makeExcuse(data)
+print makeExcuse(data)
