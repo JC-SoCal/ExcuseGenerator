@@ -77,7 +77,7 @@ delay = [
 "crapped in my gas tank.",
 "made me golf in shoes filled with macaroni and cheese.",
 "pulled me over in a stolen cop car and demanded fellatio.",
-"made me find Jesus",
+"made me find Jesus.",
 "kept telling me knock knock jokes."
 ]
 
